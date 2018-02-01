@@ -1,8 +1,0 @@
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csproj.CoreCompileInputs.cache
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb

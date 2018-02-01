@@ -1,6 +1,0 @@
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.dll
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.dll
-C:\Users\jeremy\Desktop\Cours\TP_C#\ThronesTournamentConsole\ThronesTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
